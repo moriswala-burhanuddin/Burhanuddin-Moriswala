@@ -11,7 +11,7 @@
 
 <h2>Education</h2>
 <ul>
-    <li><strong>Full Stack Web Development Course</strong> - Baroda Institute of Technology, Baroda (Currently Enrolled)</li>
+    <li><strong>Full Stack Web Development Course</strong> - Baroda Institute of Technology, Baroda </li>
 </ul>
 
 <h2>Technical Skills</h2>
