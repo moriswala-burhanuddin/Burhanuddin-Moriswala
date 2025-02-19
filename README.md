@@ -3,7 +3,7 @@
 <h1>Full-Stack Developer</h1>
 
 <p>
-    Enthusiastic and motivated Computer Science graduate with a strong foundation in web development. 
+    A strong foundation in web development. 
     Adept in both front-end and back-end technologies, including HTML, CSS, advanced JavaScript, 
     Bootstrap 5, React, Python (Django), and MySQL. Eager to apply my skills and contribute to 
     innovative projects in a dynamic development environment.
